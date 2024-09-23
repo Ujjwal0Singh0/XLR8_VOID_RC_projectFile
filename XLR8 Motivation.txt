@@ -1,3 +1,8 @@
 Motivation For Idea for XLR8.
-We had few interactions with mentors before finalising the design and learnt a lot of technical things which gave us the direction to focus on one idea. And we aimed on a car which can clear obstacles rather than being fast so hence 100rpm motors. We chose larger wheels for more ground clearance which decreased the force of motors but which was taken care of by low rpm motors. We originally planned to build a flippable car with no sense of top or bottom, but due to slight miscalculation we had to abandon the plan(but this somehow helped us in lower COM). Our most amazing feature is Suspension system, This wonderful feature helps the car to keep all 4 of its wheels on the ground even in rough terrain hence more control on the ground. This whole plan came with problems which had to be dealt later because it was our first project but we somehow managed it.
+We had few interactions with mentors before finalising the design and learnt a lot of technical things which gave us the direction to focus on one idea.
+And we aimed on a car which can clear obstacles rather than being fast so hence 100rpm motors.
+We chose larger wheels for more ground clearance which decreased the force of motors but which was taken care of by low rpm motors. 
+We originally planned to build a flippable car with no sense of top or bottom, but due to slight miscalculation we had to abandon the plan(but this somehow helped us in lower COM). 
+Our most amazing feature is Suspension system, This wonderful feature helps the car to keep all 4 of its wheels on the ground even in rough terrain hence more control on the ground. 
+This whole plan came with problems which had to be dealt later because it was our first project but we somehow managed it.
 Thank you.
