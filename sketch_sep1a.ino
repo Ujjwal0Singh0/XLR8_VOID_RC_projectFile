@@ -6,8 +6,8 @@
 #include <stdio.h>
 
 // SSID and password for the access point
-const char* ssid = "VOID RC";
-const char* password = "vaud1234";
+const char* ssid = "username";
+const char* password = "password";
 
 // Define a structure to hold IMU (Inertial Measurement Unit) data
 typedef struct {
