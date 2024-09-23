@@ -1,12 +1,12 @@
 Resources Used-
 (Mechanical)
-30x30(cm) acrylic sheet for body and frame.
-10/4(cm) wheels(*4).
-L-clamps(*4).
-100rpm Motors(*4).
-Small nut-bolts(*20).
-Large nut-bolts(*2).
-Few rubber bands.
+1.   30x30(cm) acrylic sheet for body and frame.
+2.   10/4(cm) wheels(*4).
+3.   L-clamps(*4).
+4.   100rpm Motors(*4).
+5.   Small nut-bolts(*20).
+6.   Large nut-bolts(*2).
+7.   Few rubber bands.
 (Electrical)
 1.   Raspberry Pico W Microcontroller(*1).
 2.   L298-N MotorDriver(*1).
